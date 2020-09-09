@@ -1,0 +1,17 @@
+{
+  "name": "microweber-modules/skills",
+  "description": "Skills",
+  "license": "MIT",
+  "homepage": "https://microweber.org/modules/microweber-modules/skills",
+  "authors": [
+    {
+      "name": "Bozhidar Slaveykov",
+      "email": "bobi@microweber.com"
+    }
+  ],
+  "keywords": [
+    "skills"
+  ],
+  "type": "microweber-module",
+  "target-dir": "skills"
+}
